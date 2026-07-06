@@ -1,0 +1,45 @@
+name: station-pulse-pipeline
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # every 30 minutes (UTC)
+  workflow_dispatch:          # manual runs for testing
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pipeline
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install --quiet duckdb
+
+      - name: Restore rolling history from data branch
+        run: |
+          mkdir -p out
+          curl -sf "https://raw.githubusercontent.com/${{ github.repository }}/data/history.json" -o out/history.json || echo "no prior history (first run)"
+
+      - name: Run pipeline (ingest -> validate -> transform -> emit)
+        run: python pipeline/run.py
+
+      - name: Publish artifacts to data branch
+        run: |
+          cd out
+          git init -q -b data
+          git config user.name "station-pulse-bot"
+          git config user.email "actions@github.com"
+          git add .
+          git commit -q -m "pipeline run $(date -u +%FT%TZ)"
+          git push -q --force "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" data
