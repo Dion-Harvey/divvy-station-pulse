@@ -8,9 +8,12 @@ on:
 permissions:
   contents: write
 
-concurrency:
-  group: pipeline
-  cancel-in-progress: false
+# No concurrency group on purpose. GitHub allows only one *pending* run per
+# group, so when the hosted-runner queue backs up a third scheduled run
+# cancels the second — reported as "Run failed: All jobs were cancelled" and
+# emailed, despite nothing being wrong. Artifacts are force-pushed and each
+# run refetches current state, so overlapping runs are harmless: the later
+# push simply wins.
 
 jobs:
   run:

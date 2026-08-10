@@ -18,7 +18,10 @@ ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "out"
 STATUS_URL = "https://gbfs.divvybikes.com/gbfs/en/station_status.json"
 INFO_URL = "https://gbfs.divvybikes.com/gbfs/en/station_information.json"
-HISTORY_LIMIT = 7 * 24 * 2  # 7 days of 30-minute points
+# Rolling window of runs, not of wall-clock time: 336 is seven days at the
+# nominal 30-minute cadence, but hosted-runner scheduling is best-effort, so
+# the window usually spans somewhat longer. The dashboard reports the real span.
+HISTORY_LIMIT = 336
 
 
 def fetch(url: str) -> dict:
