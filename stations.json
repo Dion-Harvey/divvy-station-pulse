@@ -1,0 +1,137 @@
+[
+ {
+  "name": "Montrose Harbor",
+  "lat": 41.963982,
+  "lon": -87.638181,
+  "bikes": 27,
+  "ebikes": 15,
+  "docks": 1,
+  "capacity": 31
+ },
+ {
+  "name": "Logan Blvd & Elston Ave",
+  "lat": 41.929465,
+  "lon": -87.684158,
+  "bikes": 24,
+  "ebikes": 16,
+  "docks": 1,
+  "capacity": 27
+ },
+ {
+  "name": "Field Museum",
+  "lat": 41.865312,
+  "lon": -87.617867,
+  "bikes": 21,
+  "ebikes": 12,
+  "docks": 30,
+  "capacity": 55
+ },
+ {
+  "name": "Wilton Ave & Diversey Pkwy",
+  "lat": 41.932418,
+  "lon": -87.652705,
+  "bikes": 20,
+  "ebikes": 12,
+  "docks": 23,
+  "capacity": 48
+ },
+ {
+  "name": "Wood St & Beach Ave",
+  "lat": 41.907655,
+  "lon": -87.672552,
+  "bikes": 20,
+  "ebikes": 6,
+  "docks": 0,
+  "capacity": 27
+ },
+ {
+  "name": "Griffin Museum of Science and Industry",
+  "lat": 41.79172820953,
+  "lon": -87.583945009,
+  "bikes": 19,
+  "ebikes": 8,
+  "docks": 3,
+  "capacity": 27
+ },
+ {
+  "name": "Sheridan Rd & Montrose Ave",
+  "lat": 41.96167,
+  "lon": -87.65464,
+  "bikes": 18,
+  "ebikes": 3,
+  "docks": 9,
+  "capacity": 32
+ },
+ {
+  "name": "Adler Planetarium",
+  "lat": 41.866095,
+  "lon": -87.607267,
+  "bikes": 17,
+  "ebikes": 10,
+  "docks": 21,
+  "capacity": 39
+ },
+ {
+  "name": "Ashland Ave & Wellington Ave",
+  "lat": 41.936083,
+  "lon": -87.669807,
+  "bikes": 17,
+  "ebikes": 9,
+  "docks": 2,
+  "capacity": 20
+ },
+ {
+  "name": "California Ave & Fletcher St",
+  "lat": 41.93842879148,
+  "lon": -87.698007756,
+  "bikes": 17,
+  "ebikes": 3,
+  "docks": 1,
+  "capacity": 19
+ },
+ {
+  "name": "Clark St & Armitage Ave",
+  "lat": 41.918306,
+  "lon": -87.636282,
+  "bikes": 17,
+  "ebikes": 0,
+  "docks": 6,
+  "capacity": 31
+ },
+ {
+  "name": "Western Ave & Leland Ave",
+  "lat": 41.96572,
+  "lon": -87.68844,
+  "bikes": 17,
+  "ebikes": 11,
+  "docks": 0,
+  "capacity": 19
+ },
+ {
+  "name": "Canal St & Adams St",
+  "lat": 41.879255,
+  "lon": -87.639904,
+  "bikes": 16,
+  "ebikes": 2,
+  "docks": 29,
+  "capacity": 47
+ },
+ {
+  "name": "Clinton St & Jackson Blvd",
+  "lat": 41.878316611830684,
+  "lon": -87.64098107814789,
+  "bikes": 16,
+  "ebikes": 9,
+  "docks": 12,
+  "capacity": 31
+ },
+ {
+  "name": "Milwaukee Ave & Wabansia Ave",
+  "lat": 41.912616,
+  "lon": -87.681469,
+  "bikes": 16,
+  "ebikes": 9,
+  "docks": 5,
+  "capacity": 24
+ }
+]
