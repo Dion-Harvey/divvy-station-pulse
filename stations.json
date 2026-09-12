@@ -1,0 +1,137 @@
+[
+ {
+  "name": "Sheffield Ave & Addison St",
+  "lat": 41.947017,
+  "lon": -87.654418,
+  "bikes": 32,
+  "ebikes": 28,
+  "docks": 1,
+  "capacity": 44
+ },
+ {
+  "name": "Adler Planetarium",
+  "lat": 41.866095,
+  "lon": -87.607267,
+  "bikes": 27,
+  "ebikes": 10,
+  "docks": 6,
+  "capacity": 39
+ },
+ {
+  "name": "Shedd Aquarium",
+  "lat": 41.86722595682,
+  "lon": -87.6153553902,
+  "bikes": 27,
+  "ebikes": 16,
+  "docks": 23,
+  "capacity": 55
+ },
+ {
+  "name": "Clark/Newport Corral",
+  "lat": 41.9449411,
+  "lon": -87.654611,
+  "bikes": 26,
+  "ebikes": 26,
+  "docks": 94,
+  "capacity": 120
+ },
+ {
+  "name": "Paulina St & Lincoln Ave Public Rack",
+  "lat": 41.943838,
+  "lon": -87.671469,
+  "bikes": 22,
+  "ebikes": 22,
+  "docks": 0,
+  "capacity": 8
+ },
+ {
+  "name": "Wilton Ave & Diversey Pkwy",
+  "lat": 41.932418,
+  "lon": -87.652705,
+  "bikes": 22,
+  "ebikes": 8,
+  "docks": 25,
+  "capacity": 48
+ },
+ {
+  "name": "Field Museum",
+  "lat": 41.865312,
+  "lon": -87.617867,
+  "bikes": 21,
+  "ebikes": 14,
+  "docks": 31,
+  "capacity": 55
+ },
+ {
+  "name": "Wood St & Beach Ave",
+  "lat": 41.907655,
+  "lon": -87.672552,
+  "bikes": 21,
+  "ebikes": 7,
+  "docks": 1,
+  "capacity": 27
+ },
+ {
+  "name": "Damen Ave & Wicker Park Ave",
+  "lat": 41.9088152,
+  "lon": -87.6771937,
+  "bikes": 20,
+  "ebikes": 9,
+  "docks": 0,
+  "capacity": 23
+ },
+ {
+  "name": "Sheffield Ave & Fletcher St",
+  "lat": 41.93901,
+  "lon": -87.65321,
+  "bikes": 20,
+  "ebikes": 6,
+  "docks": 1,
+  "capacity": 23
+ },
+ {
+  "name": "Theater on the Lake",
+  "lat": 41.926277,
+  "lon": -87.630834,
+  "bikes": 20,
+  "ebikes": 10,
+  "docks": 6,
+  "capacity": 31
+ },
+ {
+  "name": "Burnham Harbor",
+  "lat": 41.85741178707404,
+  "lon": -87.61379152536392,
+  "bikes": 19,
+  "ebikes": 10,
+  "docks": 0,
+  "capacity": 23
+ },
+ {
+  "name": "Logan Blvd & Elston Ave",
+  "lat": 41.929465,
+  "lon": -87.684158,
+  "bikes": 19,
+  "ebikes": 17,
+  "docks": 5,
+  "capacity": 27
+ },
+ {
+  "name": "Southport Ave & Waveland Ave",
+  "lat": 41.948226,
+  "lon": -87.6640712,
+  "bikes": 19,
+  "ebikes": 13,
+  "docks": 2,
+  "capacity": 24
+ },
+ {
+  "name": "Clark St & Lincoln Ave",
+  "lat": 41.915689,
+  "lon": -87.6346,
+  "bikes": 17,
+  "ebikes": 14,
+  "docks": 0,
+  "capacity": 24
+ }
+]

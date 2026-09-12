@@ -1,0 +1,11 @@
+{
+ "generated_at": "2026-09-12T17:34:23+00:00",
+ "feed_last_updated": "2026-09-12T17:34:04+00:00",
+ "stations_online": 2036,
+ "bikes_available": 5395,
+ "ebikes_available": 2637,
+ "docks_available": 14437,
+ "pct_stations_empty": 43.5,
+ "pct_stations_full": 4.8,
+ "system_capacity_used_pct": 24.8
+}
