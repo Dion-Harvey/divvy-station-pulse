@@ -1,0 +1,137 @@
+[
+ {
+  "name": "Sheffield Ave & Wrightwood Ave",
+  "lat": 41.928712,
+  "lon": -87.653833,
+  "bikes": 27,
+  "ebikes": 12,
+  "docks": 6,
+  "capacity": 36
+ },
+ {
+  "name": "Honore St & Division St",
+  "lat": 41.903119,
+  "lon": -87.673935,
+  "bikes": 21,
+  "ebikes": 16,
+  "docks": 0,
+  "capacity": 23
+ },
+ {
+  "name": "Lincoln Park Conservatory",
+  "lat": 41.92393131136619,
+  "lon": -87.63582453131676,
+  "bikes": 21,
+  "ebikes": 9,
+  "docks": 3,
+  "capacity": 31
+ },
+ {
+  "name": "Shedd Aquarium",
+  "lat": 41.86722595682,
+  "lon": -87.6153553902,
+  "bikes": 21,
+  "ebikes": 15,
+  "docks": 22,
+  "capacity": 55
+ },
+ {
+  "name": "Wood St & Beach Ave",
+  "lat": 41.907655,
+  "lon": -87.672552,
+  "bikes": 21,
+  "ebikes": 18,
+  "docks": 2,
+  "capacity": 27
+ },
+ {
+  "name": "Bissell St & Armitage Ave",
+  "lat": 41.9182955629354,
+  "lon": -87.65218332409859,
+  "bikes": 20,
+  "ebikes": 5,
+  "docks": 1,
+  "capacity": 24
+ },
+ {
+  "name": "Hampden Ct & Diversey Pkwy",
+  "lat": 41.93247,
+  "lon": -87.64242,
+  "bikes": 20,
+  "ebikes": 14,
+  "docks": 3,
+  "capacity": 24
+ },
+ {
+  "name": "Canal St & Jackson Blvd",
+  "lat": 41.878125,
+  "lon": -87.639968,
+  "bikes": 19,
+  "ebikes": 12,
+  "docks": 5,
+  "capacity": 31
+ },
+ {
+  "name": "Desplaines St & Jackson Blvd",
+  "lat": 41.87811890091227,
+  "lon": -87.64394760131836,
+  "bikes": 19,
+  "ebikes": 9,
+  "docks": 7,
+  "capacity": 28
+ },
+ {
+  "name": "North Ave Beach Overflow Corral",
+  "lat": 41.9139321,
+  "lon": -87.6252532,
+  "bikes": 19,
+  "ebikes": 19,
+  "docks": 28,
+  "capacity": 50
+ },
+ {
+  "name": "Damen Ave & Wicker Park Ave",
+  "lat": 41.9088152,
+  "lon": -87.6771937,
+  "bikes": 18,
+  "ebikes": 6,
+  "docks": 1,
+  "capacity": 23
+ },
+ {
+  "name": "Sheridan Rd & Montrose Ave",
+  "lat": 41.96167,
+  "lon": -87.65464,
+  "bikes": 18,
+  "ebikes": 7,
+  "docks": 12,
+  "capacity": 32
+ },
+ {
+  "name": "Ashland Ave & Wellington Ave",
+  "lat": 41.936083,
+  "lon": -87.669807,
+  "bikes": 17,
+  "ebikes": 11,
+  "docks": 1,
+  "capacity": 20
+ },
+ {
+  "name": "Damen Ave & Ohio St",
+  "lat": 41.892394452962705,
+  "lon": -87.67688512802124,
+  "bikes": 17,
+  "ebikes": 7,
+  "docks": 1,
+  "capacity": 23
+ },
+ {
+  "name": "State St & Chicago Ave",
+  "lat": 41.89661720040753,
+  "lon": -87.62857854366302,
+  "bikes": 17,
+  "ebikes": 12,
+  "docks": 10,
+  "capacity": 30
+ }
+]
