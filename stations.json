@@ -1,0 +1,137 @@
+[
+ {
+  "name": "Shedd Aquarium",
+  "lat": 41.86722595682,
+  "lon": -87.6153553902,
+  "bikes": 38,
+  "ebikes": 24,
+  "docks": 9,
+  "capacity": 27
+ },
+ {
+  "name": "Wilton Ave & Diversey Pkwy",
+  "lat": 41.932418,
+  "lon": -87.652705,
+  "bikes": 33,
+  "ebikes": 30,
+  "docks": 8,
+  "capacity": 48
+ },
+ {
+  "name": "Canal St & Adams St",
+  "lat": 41.879255,
+  "lon": -87.639904,
+  "bikes": 28,
+  "ebikes": 23,
+  "docks": 15,
+  "capacity": 47
+ },
+ {
+  "name": "Artesian Ave & Hubbard St",
+  "lat": 41.8895,
+  "lon": -87.688257,
+  "bikes": 24,
+  "ebikes": 20,
+  "docks": 2,
+  "capacity": 28
+ },
+ {
+  "name": "Logan Blvd & Elston Ave",
+  "lat": 41.929465,
+  "lon": -87.684158,
+  "bikes": 24,
+  "ebikes": 9,
+  "docks": 1,
+  "capacity": 27
+ },
+ {
+  "name": "Montrose Harbor",
+  "lat": 41.963982,
+  "lon": -87.638181,
+  "bikes": 24,
+  "ebikes": 14,
+  "docks": 5,
+  "capacity": 31
+ },
+ {
+  "name": "Ellis Ave & 55th St",
+  "lat": 41.79430062054,
+  "lon": -87.6014497734,
+  "bikes": 21,
+  "ebikes": 14,
+  "docks": 5,
+  "capacity": 30
+ },
+ {
+  "name": "Griffin Museum of Science and Industry",
+  "lat": 41.79172820953,
+  "lon": -87.583945009,
+  "bikes": 21,
+  "ebikes": 15,
+  "docks": 3,
+  "capacity": 27
+ },
+ {
+  "name": "Halsted St & Clybourn Ave",
+  "lat": 41.909668,
+  "lon": -87.648128,
+  "bikes": 20,
+  "ebikes": 8,
+  "docks": 6,
+  "capacity": 28
+ },
+ {
+  "name": "Clark St & Armitage Ave",
+  "lat": 41.918306,
+  "lon": -87.636282,
+  "bikes": 18,
+  "ebikes": 12,
+  "docks": 11,
+  "capacity": 31
+ },
+ {
+  "name": "Paulina St & Flournoy St",
+  "lat": 41.873061087897916,
+  "lon": -87.66913488507271,
+  "bikes": 18,
+  "ebikes": 16,
+  "docks": 9,
+  "capacity": 31
+ },
+ {
+  "name": "Sheffield Ave & Wrightwood Ave",
+  "lat": 41.928712,
+  "lon": -87.653833,
+  "bikes": 18,
+  "ebikes": 1,
+  "docks": 12,
+  "capacity": 36
+ },
+ {
+  "name": "Wood St & Beach Ave",
+  "lat": 41.907655,
+  "lon": -87.672552,
+  "bikes": 18,
+  "ebikes": 13,
+  "docks": 9,
+  "capacity": 27
+ },
+ {
+  "name": "California Ave & Fletcher St",
+  "lat": 41.93842879148,
+  "lon": -87.698007756,
+  "bikes": 17,
+  "ebikes": 3,
+  "docks": 2,
+  "capacity": 19
+ },
+ {
+  "name": "Damen Ave & Ohio St",
+  "lat": 41.892394452962705,
+  "lon": -87.67688512802124,
+  "bikes": 17,
+  "ebikes": 17,
+  "docks": 2,
+  "capacity": 23
+ }
+]
