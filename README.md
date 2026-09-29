@@ -37,7 +37,10 @@ flowchart LR
   branch — bounded repo size, no history bloat, served free over
   `raw.githubusercontent.com` with CORS enabled.
 - **Rolling window:** each run restores `history.json` from the data branch,
-  appends one point, and trims to 7 days x 48 points.
+  appends one point, and trims to the latest 336 runs — seven days at the
+  nominal cadence, but in practice ~10–11 days, because hosted-runner cron is
+  best-effort and skips slots under load. The dashboard reports the span it
+  actually covers.
 
 ## Artifacts (data branch)
 
@@ -45,7 +48,7 @@ flowchart LR
 |------|----------|
 | `latest.json` | Citywide KPIs: stations online, bikes/e-bikes/docks available, % empty/full stations, capacity in use |
 | `stations.json` | Top 15 stations by bikes ready to ride, with coordinates |
-| `history.json` | Rolling 7-day citywide series (30-minute grain) |
+| `history.json` | Rolling 336-run citywide series (one point per run) |
 | `quality.json` | Per-check gate results, rows processed, runtime — rendered as the dashboard's pipeline-health panel |
 
 ## Design decisions
@@ -58,6 +61,20 @@ flowchart LR
   zero growth.
 - **SQL where SQL belongs:** joins and aggregations live in `transform.sql`,
   not Python loops — the transform layer is readable by anyone who knows SQL.
+
+## Operating notes
+
+Lessons from running this on GitHub Actions for three months:
+
+- **No concurrency group.** GitHub allows one *pending* run per group, so a
+  runner backlog made each new scheduled run cancel the waiting one — reported
+  and emailed as "Run failed" although nothing was wrong. Overlapping runs are
+  harmless here (force-push, full refetch), so the group was removed.
+- **Scheduled workflows auto-disable after 60 days of inactivity.** In public
+  repos GitHub turns cron off when no human activity has occurred for 60 days,
+  and the bot's pushes to `data` don't count. A commit to `main` at least
+  every two months keeps the schedule alive; if the dashboard ever freezes,
+  check the Actions tab for a disabled workflow before debugging the code.
 
 ## Run it yourself
 
