@@ -1,0 +1,137 @@
+[
+ {
+  "name": "Navy Pier",
+  "lat": 41.892278,
+  "lon": -87.612043,
+  "bikes": 46,
+  "ebikes": 30,
+  "docks": 9,
+  "capacity": 71
+ },
+ {
+  "name": "Sheffield Ave & Wrightwood Ave",
+  "lat": 41.928712,
+  "lon": -87.653833,
+  "bikes": 30,
+  "ebikes": 26,
+  "docks": 3,
+  "capacity": 36
+ },
+ {
+  "name": "Canal St & Madison St",
+  "lat": 41.882409,
+  "lon": -87.639767,
+  "bikes": 29,
+  "ebikes": 28,
+  "docks": 6,
+  "capacity": 43
+ },
+ {
+  "name": "Shedd Aquarium",
+  "lat": 41.86722595682,
+  "lon": -87.6153553902,
+  "bikes": 29,
+  "ebikes": 18,
+  "docks": 21,
+  "capacity": 27
+ },
+ {
+  "name": "Canal St & Adams St",
+  "lat": 41.879255,
+  "lon": -87.639904,
+  "bikes": 23,
+  "ebikes": 21,
+  "docks": 16,
+  "capacity": 47
+ },
+ {
+  "name": "Ellis Ave & 55th St",
+  "lat": 41.79430062054,
+  "lon": -87.6014497734,
+  "bikes": 23,
+  "ebikes": 16,
+  "docks": 5,
+  "capacity": 30
+ },
+ {
+  "name": "Canal St & Jackson Blvd",
+  "lat": 41.878125,
+  "lon": -87.639968,
+  "bikes": 22,
+  "ebikes": 20,
+  "docks": 1,
+  "capacity": 31
+ },
+ {
+  "name": "Sangamon St & Lake St",
+  "lat": 41.88577925240433,
+  "lon": -87.65102460980414,
+  "bikes": 22,
+  "ebikes": 20,
+  "docks": 0,
+  "capacity": 24
+ },
+ {
+  "name": "Wilton Ave & Diversey Pkwy",
+  "lat": 41.932418,
+  "lon": -87.652705,
+  "bikes": 20,
+  "ebikes": 13,
+  "docks": 22,
+  "capacity": 48
+ },
+ {
+  "name": "Burnham Harbor",
+  "lat": 41.85741178707404,
+  "lon": -87.61379152536392,
+  "bikes": 19,
+  "ebikes": 7,
+  "docks": 0,
+  "capacity": 23
+ },
+ {
+  "name": "DuSable Lake Shore Dr & Monroe St",
+  "lat": 41.880958,
+  "lon": -87.616743,
+  "bikes": 19,
+  "ebikes": 12,
+  "docks": 18,
+  "capacity": 39
+ },
+ {
+  "name": "Michigan Ave & Oak St",
+  "lat": 41.90096039,
+  "lon": -87.62377664,
+  "bikes": 19,
+  "ebikes": 11,
+  "docks": 0,
+  "capacity": 23
+ },
+ {
+  "name": "Southport Ave & Waveland Ave",
+  "lat": 41.948226,
+  "lon": -87.6640712,
+  "bikes": 19,
+  "ebikes": 15,
+  "docks": 0,
+  "capacity": 24
+ },
+ {
+  "name": "Field Museum",
+  "lat": 41.865312,
+  "lon": -87.617867,
+  "bikes": 18,
+  "ebikes": 3,
+  "docks": 32,
+  "capacity": 55
+ },
+ {
+  "name": "Fulton Market",
+  "lat": 41.886871,
+  "lon": -87.648089,
+  "bikes": 18,
+  "ebikes": 17,
+  "docks": 0,
+  "capacity": 30
+ }
+]
