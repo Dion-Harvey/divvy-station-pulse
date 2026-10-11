@@ -1,0 +1,137 @@
+[
+ {
+  "name": "Navy Pier",
+  "lat": 41.892278,
+  "lon": -87.612043,
+  "bikes": 32,
+  "ebikes": 9,
+  "docks": 30,
+  "capacity": 71
+ },
+ {
+  "name": "Shedd Aquarium",
+  "lat": 41.86722595682,
+  "lon": -87.6153553902,
+  "bikes": 30,
+  "ebikes": 18,
+  "docks": 18,
+  "capacity": 27
+ },
+ {
+  "name": "Wilton Ave & Diversey Pkwy",
+  "lat": 41.932418,
+  "lon": -87.652705,
+  "bikes": 24,
+  "ebikes": 18,
+  "docks": 14,
+  "capacity": 48
+ },
+ {
+  "name": "Michigan Ave & Washington St",
+  "lat": 41.8839840647265,
+  "lon": -87.6246839761734,
+  "bikes": 23,
+  "ebikes": 15,
+  "docks": 16,
+  "capacity": 43
+ },
+ {
+  "name": "Halsted St & Roscoe St",
+  "lat": 41.94367,
+  "lon": -87.64895,
+  "bikes": 19,
+  "ebikes": 10,
+  "docks": 0,
+  "capacity": 24
+ },
+ {
+  "name": "Millennium Park",
+  "lat": 41.8810317,
+  "lon": -87.62408432,
+  "bikes": 19,
+  "ebikes": 3,
+  "docks": 26,
+  "capacity": 47
+ },
+ {
+  "name": "Bissell St & Armitage Ave",
+  "lat": 41.9182955629354,
+  "lon": -87.65218332409859,
+  "bikes": 18,
+  "ebikes": 17,
+  "docks": 3,
+  "capacity": 24
+ },
+ {
+  "name": "Broadway & Argyle St",
+  "lat": 41.97423,
+  "lon": -87.6597735,
+  "bikes": 18,
+  "ebikes": 7,
+  "docks": 0,
+  "capacity": 19
+ },
+ {
+  "name": "Wells St & Hubbard St",
+  "lat": 41.889906,
+  "lon": -87.634266,
+  "bikes": 18,
+  "ebikes": 9,
+  "docks": 22,
+  "capacity": 42
+ },
+ {
+  "name": "Ashland Ave & Wellington Ave",
+  "lat": 41.936083,
+  "lon": -87.669807,
+  "bikes": 17,
+  "ebikes": 15,
+  "docks": 2,
+  "capacity": 20
+ },
+ {
+  "name": "New St & Illinois St",
+  "lat": 41.890847040623804,
+  "lon": -87.61861681938171,
+  "bikes": 17,
+  "ebikes": 16,
+  "docks": 1,
+  "capacity": 31
+ },
+ {
+  "name": "Riley O'Neil Memorial Station at City Hall",
+  "lat": 41.8832351,
+  "lon": -87.6321117,
+  "bikes": 17,
+  "ebikes": 14,
+  "docks": 12,
+  "capacity": 30
+ },
+ {
+  "name": "Clark St & Lincoln Ave",
+  "lat": 41.915689,
+  "lon": -87.6346,
+  "bikes": 16,
+  "ebikes": 11,
+  "docks": 3,
+  "capacity": 24
+ },
+ {
+  "name": "Clark St & Winnemac Ave",
+  "lat": 41.973347640473044,
+  "lon": -87.6678554713726,
+  "bikes": 16,
+  "ebikes": 12,
+  "docks": 1,
+  "capacity": 19
+ },
+ {
+  "name": "Milwaukee Ave & Grand Ave",
+  "lat": 41.891578,
+  "lon": -87.648384,
+  "bikes": 16,
+  "ebikes": 4,
+  "docks": 3,
+  "capacity": 19
+ }
+]
