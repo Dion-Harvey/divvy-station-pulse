@@ -1,0 +1,137 @@
+[
+ {
+  "name": "University Ave & 57th St",
+  "lat": 41.791478,
+  "lon": -87.599861,
+  "bikes": 45,
+  "ebikes": 34,
+  "docks": 0,
+  "capacity": 48
+ },
+ {
+  "name": "Wells St & Randolph St",
+  "lat": 41.884295,
+  "lon": -87.633963,
+  "bikes": 31,
+  "ebikes": 31,
+  "docks": 8,
+  "capacity": 42
+ },
+ {
+  "name": "Canal St & Adams St",
+  "lat": 41.879255,
+  "lon": -87.639904,
+  "bikes": 30,
+  "ebikes": 21,
+  "docks": 3,
+  "capacity": 47
+ },
+ {
+  "name": "Wilton Ave & Diversey Pkwy",
+  "lat": 41.932418,
+  "lon": -87.652705,
+  "bikes": 29,
+  "ebikes": 21,
+  "docks": 18,
+  "capacity": 48
+ },
+ {
+  "name": "Daley Center Plaza",
+  "lat": 41.884241,
+  "lon": -87.629634,
+  "bikes": 27,
+  "ebikes": 22,
+  "docks": 15,
+  "capacity": 60
+ },
+ {
+  "name": "Dearborn St & Erie St",
+  "lat": 41.894,
+  "lon": -87.62922,
+  "bikes": 27,
+  "ebikes": 17,
+  "docks": 3,
+  "capacity": 42
+ },
+ {
+  "name": "Ravenswood Ave & Lawrence Ave",
+  "lat": 41.968445,
+  "lon": -87.674226,
+  "bikes": 27,
+  "ebikes": 23,
+  "docks": 9,
+  "capacity": 47
+ },
+ {
+  "name": "Navy Pier",
+  "lat": 41.892278,
+  "lon": -87.612043,
+  "bikes": 25,
+  "ebikes": 12,
+  "docks": 39,
+  "capacity": 71
+ },
+ {
+  "name": "Ellis Ave & 55th St",
+  "lat": 41.79430062054,
+  "lon": -87.6014497734,
+  "bikes": 24,
+  "ebikes": 19,
+  "docks": 3,
+  "capacity": 30
+ },
+ {
+  "name": "Fulton Market",
+  "lat": 41.886871,
+  "lon": -87.648089,
+  "bikes": 24,
+  "ebikes": 19,
+  "docks": 2,
+  "capacity": 30
+ },
+ {
+  "name": "Logan Blvd & Elston Ave",
+  "lat": 41.929465,
+  "lon": -87.684158,
+  "bikes": 24,
+  "ebikes": 19,
+  "docks": 2,
+  "capacity": 27
+ },
+ {
+  "name": "Shedd Aquarium",
+  "lat": 41.86722595682,
+  "lon": -87.6153553902,
+  "bikes": 24,
+  "ebikes": 13,
+  "docks": 26,
+  "capacity": 55
+ },
+ {
+  "name": "Clinton St & Washington Blvd 2",
+  "lat": 41.88338,
+  "lon": -87.64117,
+  "bikes": 21,
+  "ebikes": 16,
+  "docks": 3,
+  "capacity": 32
+ },
+ {
+  "name": "Sedgwick St & Huron St",
+  "lat": 41.894666,
+  "lon": -87.638437,
+  "bikes": 21,
+  "ebikes": 20,
+  "docks": 3,
+  "capacity": 27
+ },
+ {
+  "name": "LaSalle St & Jackson Blvd",
+  "lat": 41.878166,
+  "lon": -87.631929,
+  "bikes": 20,
+  "ebikes": 17,
+  "docks": 13,
+  "capacity": 35
+ }
+]
