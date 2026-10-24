@@ -1,0 +1,137 @@
+[
+ {
+  "name": "Navy Pier",
+  "lat": 41.892278,
+  "lon": -87.612043,
+  "bikes": 35,
+  "ebikes": 21,
+  "docks": 27,
+  "capacity": 71
+ },
+ {
+  "name": "Wilton Ave & Diversey Pkwy",
+  "lat": 41.932418,
+  "lon": -87.652705,
+  "bikes": 32,
+  "ebikes": 31,
+  "docks": 1,
+  "capacity": 48
+ },
+ {
+  "name": "University Ave & 57th St",
+  "lat": 41.791478,
+  "lon": -87.599861,
+  "bikes": 26,
+  "ebikes": 18,
+  "docks": 19,
+  "capacity": 48
+ },
+ {
+  "name": "Ellis Ave & 55th St",
+  "lat": 41.79430062054,
+  "lon": -87.6014497734,
+  "bikes": 24,
+  "ebikes": 16,
+  "docks": 4,
+  "capacity": 30
+ },
+ {
+  "name": "Kedzie Ave & Milwaukee Ave",
+  "lat": 41.92899,
+  "lon": -87.70803,
+  "bikes": 22,
+  "ebikes": 6,
+  "docks": 7,
+  "capacity": 31
+ },
+ {
+  "name": "Sheffield Ave & Waveland Ave",
+  "lat": 41.949399,
+  "lon": -87.654529,
+  "bikes": 22,
+  "ebikes": 10,
+  "docks": 3,
+  "capacity": 27
+ },
+ {
+  "name": "Clinton St & Jackson Blvd",
+  "lat": 41.878316611830684,
+  "lon": -87.64098107814789,
+  "bikes": 21,
+  "ebikes": 19,
+  "docks": 1,
+  "capacity": 31
+ },
+ {
+  "name": "Halsted St & Armitage Ave",
+  "lat": 41.91823,
+  "lon": -87.64879,
+  "bikes": 21,
+  "ebikes": 13,
+  "docks": 0,
+  "capacity": 24
+ },
+ {
+  "name": "Sheffield Ave & Wrightwood Ave",
+  "lat": 41.928712,
+  "lon": -87.653833,
+  "bikes": 21,
+  "ebikes": 9,
+  "docks": 8,
+  "capacity": 36
+ },
+ {
+  "name": "Millennium Park",
+  "lat": 41.8810317,
+  "lon": -87.62408432,
+  "bikes": 20,
+  "ebikes": 9,
+  "docks": 20,
+  "capacity": 47
+ },
+ {
+  "name": "Southport Ave & Waveland Ave",
+  "lat": 41.948226,
+  "lon": -87.6640712,
+  "bikes": 19,
+  "ebikes": 13,
+  "docks": 0,
+  "capacity": 24
+ },
+ {
+  "name": "Bissell St & Armitage Ave",
+  "lat": 41.9182955629354,
+  "lon": -87.65218332409859,
+  "bikes": 18,
+  "ebikes": 5,
+  "docks": 2,
+  "capacity": 24
+ },
+ {
+  "name": "Halsted St & Dickens Ave",
+  "lat": 41.919936,
+  "lon": -87.64883,
+  "bikes": 18,
+  "ebikes": 11,
+  "docks": 1,
+  "capacity": 20
+ },
+ {
+  "name": "Sheffield Ave & Addison St",
+  "lat": 41.947017,
+  "lon": -87.654418,
+  "bikes": 18,
+  "ebikes": 4,
+  "docks": 23,
+  "capacity": 44
+ },
+ {
+  "name": "Shore Dr & 55th St",
+  "lat": 41.795212,
+  "lon": -87.580715,
+  "bikes": 18,
+  "ebikes": 12,
+  "docks": 0,
+  "capacity": 19
+ }
+]
