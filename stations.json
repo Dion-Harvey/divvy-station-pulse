@@ -1,0 +1,137 @@
+[
+ {
+  "name": "Theater on the Lake",
+  "lat": 41.926277,
+  "lon": -87.630834,
+  "bikes": 27,
+  "ebikes": 15,
+  "docks": 3,
+  "capacity": 31
+ },
+ {
+  "name": "North Ave Beach Pedestrian Bridge",
+  "lat": 41.915633,
+  "lon": -87.628214,
+  "bikes": 24,
+  "ebikes": 15,
+  "docks": 2,
+  "capacity": 36
+ },
+ {
+  "name": "Clark St & Ida B Wells Dr",
+  "lat": 41.8759326655,
+  "lon": -87.6305845355,
+  "bikes": 23,
+  "ebikes": 5,
+  "docks": 10,
+  "capacity": 35
+ },
+ {
+  "name": "Field Museum",
+  "lat": 41.865312,
+  "lon": -87.617867,
+  "bikes": 22,
+  "ebikes": 12,
+  "docks": 32,
+  "capacity": 55
+ },
+ {
+  "name": "Adler Planetarium",
+  "lat": 41.866095,
+  "lon": -87.607267,
+  "bikes": 21,
+  "ebikes": 17,
+  "docks": 18,
+  "capacity": 39
+ },
+ {
+  "name": "Clinton St & Jackson Blvd",
+  "lat": 41.878316611830684,
+  "lon": -87.64098107814789,
+  "bikes": 21,
+  "ebikes": 18,
+  "docks": 2,
+  "capacity": 31
+ },
+ {
+  "name": "Dearborn St & Adams St 1",
+  "lat": 41.8793563587,
+  "lon": -87.6297910363,
+  "bikes": 20,
+  "ebikes": 5,
+  "docks": 3,
+  "capacity": 30
+ },
+ {
+  "name": "Canal St & Jackson Blvd",
+  "lat": 41.878125,
+  "lon": -87.639968,
+  "bikes": 19,
+  "ebikes": 15,
+  "docks": 5,
+  "capacity": 31
+ },
+ {
+  "name": "Daley Center Plaza",
+  "lat": 41.884241,
+  "lon": -87.629634,
+  "bikes": 19,
+  "ebikes": 9,
+  "docks": 30,
+  "capacity": 60
+ },
+ {
+  "name": "Canal St & Madison St",
+  "lat": 41.882409,
+  "lon": -87.639767,
+  "bikes": 18,
+  "ebikes": 9,
+  "docks": 22,
+  "capacity": 43
+ },
+ {
+  "name": "Clark St & Drummond Pl",
+  "lat": 41.931248,
+  "lon": -87.644336,
+  "bikes": 18,
+  "ebikes": 11,
+  "docks": 3,
+  "capacity": 23
+ },
+ {
+  "name": "Fulton Market",
+  "lat": 41.886871,
+  "lon": -87.648089,
+  "bikes": 18,
+  "ebikes": 14,
+  "docks": 6,
+  "capacity": 30
+ },
+ {
+  "name": "Inner Lake Shore Dr & Aldine Ave",
+  "lat": 41.94232,
+  "lon": -87.63989,
+  "bikes": 18,
+  "ebikes": 10,
+  "docks": 2,
+  "capacity": 24
+ },
+ {
+  "name": "Clark St & Armitage Ave",
+  "lat": 41.918306,
+  "lon": -87.636282,
+  "bikes": 17,
+  "ebikes": 10,
+  "docks": 9,
+  "capacity": 31
+ },
+ {
+  "name": "Kedzie Ave & Milwaukee Ave",
+  "lat": 41.92899,
+  "lon": -87.70803,
+  "bikes": 17,
+  "ebikes": 13,
+  "docks": 8,
+  "capacity": 31
+ }
+]

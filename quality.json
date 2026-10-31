@@ -1,0 +1,38 @@
+{
+ "passed": true,
+ "checks": [
+  {
+   "check": "station_count_in_range",
+   "passed": true,
+   "observed": "2078 stations",
+   "blocking": true
+  },
+  {
+   "check": "feed_freshness_under_30min",
+   "passed": true,
+   "observed": "1.5 min old",
+   "blocking": true
+  },
+  {
+   "check": "status_info_join_coverage_99pct",
+   "passed": true,
+   "observed": "100.00%",
+   "blocking": true
+  },
+  {
+   "check": "no_negative_counts",
+   "passed": true,
+   "observed": "0 negative rows",
+   "blocking": true
+  },
+  {
+   "check": "citywide_bikes_sane",
+   "passed": true,
+   "observed": "6083 bikes",
+   "blocking": true
+  }
+ ],
+ "rows_processed": 4156,
+ "runtime_seconds": 0.77,
+ "run_at": "2026-10-31T18:33:32+00:00"
+}
