@@ -1,0 +1,137 @@
+[
+ {
+  "name": "Wilton Ave & Diversey Pkwy",
+  "lat": 41.932418,
+  "lon": -87.652705,
+  "bikes": 43,
+  "ebikes": 29,
+  "docks": 2,
+  "capacity": 48
+ },
+ {
+  "name": "Canal St & Adams St",
+  "lat": 41.879255,
+  "lon": -87.639904,
+  "bikes": 41,
+  "ebikes": 18,
+  "docks": 3,
+  "capacity": 47
+ },
+ {
+  "name": "Canal St & Madison St",
+  "lat": 41.882409,
+  "lon": -87.639767,
+  "bikes": 31,
+  "ebikes": 23,
+  "docks": 1,
+  "capacity": 43
+ },
+ {
+  "name": "Clinton St & Jackson Blvd",
+  "lat": 41.878316611830684,
+  "lon": -87.64098107814789,
+  "bikes": 26,
+  "ebikes": 19,
+  "docks": 0,
+  "capacity": 31
+ },
+ {
+  "name": "Clinton St & Washington Blvd 2",
+  "lat": 41.88338,
+  "lon": -87.64117,
+  "bikes": 26,
+  "ebikes": 26,
+  "docks": 3,
+  "capacity": 32
+ },
+ {
+  "name": "Paulina St & Flournoy St",
+  "lat": 41.873061087897916,
+  "lon": -87.66913488507271,
+  "bikes": 24,
+  "ebikes": 20,
+  "docks": 3,
+  "capacity": 31
+ },
+ {
+  "name": "Financial Pl & Ida B Wells Dr",
+  "lat": 41.8750236280333,
+  "lon": -87.6330940425396,
+  "bikes": 23,
+  "ebikes": 14,
+  "docks": 4,
+  "capacity": 31
+ },
+ {
+  "name": "Logan Blvd & Elston Ave",
+  "lat": 41.929465,
+  "lon": -87.684158,
+  "bikes": 23,
+  "ebikes": 23,
+  "docks": 2,
+  "capacity": 27
+ },
+ {
+  "name": "Wabash Ave & 16th St",
+  "lat": 41.860384,
+  "lon": -87.625813,
+  "bikes": 23,
+  "ebikes": 9,
+  "docks": 16,
+  "capacity": 39
+ },
+ {
+  "name": "Wabash Ave & Washington St",
+  "lat": 41.8832,
+  "lon": -87.62662,
+  "bikes": 23,
+  "ebikes": 11,
+  "docks": 2,
+  "capacity": 30
+ },
+ {
+  "name": "Millennium Park",
+  "lat": 41.8810317,
+  "lon": -87.62408432,
+  "bikes": 22,
+  "ebikes": 13,
+  "docks": 23,
+  "capacity": 47
+ },
+ {
+  "name": "Ravenswood Ave & Lawrence Ave",
+  "lat": 41.968445,
+  "lon": -87.674226,
+  "bikes": 22,
+  "ebikes": 7,
+  "docks": 20,
+  "capacity": 47
+ },
+ {
+  "name": "Field Museum",
+  "lat": 41.865312,
+  "lon": -87.617867,
+  "bikes": 20,
+  "ebikes": 7,
+  "docks": 34,
+  "capacity": 55
+ },
+ {
+  "name": "Green St & Madison St",
+  "lat": 41.881859328038225,
+  "lon": -87.64926373958588,
+  "bikes": 19,
+  "ebikes": 7,
+  "docks": 1,
+  "capacity": 27
+ },
+ {
+  "name": "Kingsbury St & Kinzie St 2",
+  "lat": 41.889188,
+  "lon": -87.638387,
+  "bikes": 19,
+  "ebikes": 12,
+  "docks": 11,
+  "capacity": 32
+ }
+]
