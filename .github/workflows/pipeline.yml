@@ -45,4 +45,16 @@ jobs:
           git config user.email "actions@github.com"
           git add .
           git commit -q -m "pipeline run $(date -u +%FT%TZ)"
-          git push -q --force "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" data
+          # GitHub occasionally rejects pushes server-side ("fatal error in
+          # commit_refs"); a few seconds later the same push succeeds. Retry
+          # with backoff so a transient rejection doesn't fail the run.
+          remote="https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
+          for attempt in 1 2 3; do
+            if git push -q --force "$remote" data; then exit 0; fi
+            if [ "$attempt" -lt 3 ]; then
+              echo "push attempt $attempt failed; retrying in $((attempt * 15))s"
+              sleep $((attempt * 15))
+            fi
+          done
+          echo "::error::push to data branch failed after 3 attempts"
+          exit 1
