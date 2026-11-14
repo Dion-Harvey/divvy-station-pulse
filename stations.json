@@ -1,0 +1,137 @@
+[
+ {
+  "name": "Canal St & Madison St",
+  "lat": 41.882409,
+  "lon": -87.639767,
+  "bikes": 38,
+  "ebikes": 22,
+  "docks": 3,
+  "capacity": 43
+ },
+ {
+  "name": "Canal St & Adams St",
+  "lat": 41.879255,
+  "lon": -87.639904,
+  "bikes": 30,
+  "ebikes": 13,
+  "docks": 6,
+  "capacity": 47
+ },
+ {
+  "name": "Canal St & Jackson Blvd",
+  "lat": 41.878125,
+  "lon": -87.639968,
+  "bikes": 27,
+  "ebikes": 24,
+  "docks": 2,
+  "capacity": 31
+ },
+ {
+  "name": "Canal St & Monroe St",
+  "lat": 41.8829056,
+  "lon": -87.6397409,
+  "bikes": 27,
+  "ebikes": 22,
+  "docks": 0,
+  "capacity": 27
+ },
+ {
+  "name": "New St & Illinois St",
+  "lat": 41.890847040623804,
+  "lon": -87.61861681938171,
+  "bikes": 25,
+  "ebikes": 19,
+  "docks": 4,
+  "capacity": 31
+ },
+ {
+  "name": "Logan Blvd & Elston Ave",
+  "lat": 41.929465,
+  "lon": -87.684158,
+  "bikes": 24,
+  "ebikes": 20,
+  "docks": 2,
+  "capacity": 27
+ },
+ {
+  "name": "Adler Planetarium",
+  "lat": 41.866095,
+  "lon": -87.607267,
+  "bikes": 22,
+  "ebikes": 17,
+  "docks": 17,
+  "capacity": 39
+ },
+ {
+  "name": "Clinton St & Jackson Blvd",
+  "lat": 41.878316611830684,
+  "lon": -87.64098107814789,
+  "bikes": 20,
+  "ebikes": 18,
+  "docks": 3,
+  "capacity": 31
+ },
+ {
+  "name": "LaSalle St & Illinois St",
+  "lat": 41.890762,
+  "lon": -87.631697,
+  "bikes": 20,
+  "ebikes": 15,
+  "docks": 8,
+  "capacity": 31
+ },
+ {
+  "name": "Navy Pier",
+  "lat": 41.892278,
+  "lon": -87.612043,
+  "bikes": 20,
+  "ebikes": 5,
+  "docks": 50,
+  "capacity": 71
+ },
+ {
+  "name": "Financial Pl & Ida B Wells Dr",
+  "lat": 41.8750236280333,
+  "lon": -87.6330940425396,
+  "bikes": 19,
+  "ebikes": 17,
+  "docks": 0,
+  "capacity": 31
+ },
+ {
+  "name": "Clinton St & Washington Blvd 2",
+  "lat": 41.88338,
+  "lon": -87.64117,
+  "bikes": 17,
+  "ebikes": 15,
+  "docks": 3,
+  "capacity": 32
+ },
+ {
+  "name": "DuSable Lake Shore Dr & North Blvd",
+  "lat": 41.911722,
+  "lon": -87.626804,
+  "bikes": 17,
+  "ebikes": 5,
+  "docks": 21,
+  "capacity": 39
+ },
+ {
+  "name": "Ravenswood Ave & Lawrence Ave",
+  "lat": 41.968445,
+  "lon": -87.674226,
+  "bikes": 17,
+  "ebikes": 15,
+  "docks": 28,
+  "capacity": 47
+ },
+ {
+  "name": "Carpenter St & Huron St",
+  "lat": 41.894556,
+  "lon": -87.653449,
+  "bikes": 16,
+  "ebikes": 12,
+  "docks": 0,
+  "capacity": 20
+ }
+]
