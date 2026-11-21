@@ -1,0 +1,137 @@
+[
+ {
+  "name": "Michigan Ave & Washington St",
+  "lat": 41.8839840647265,
+  "lon": -87.6246839761734,
+  "bikes": 27,
+  "ebikes": 20,
+  "docks": 8,
+  "capacity": 43
+ },
+ {
+  "name": "Clinton St & Jackson Blvd",
+  "lat": 41.878316611830684,
+  "lon": -87.64098107814789,
+  "bikes": 26,
+  "ebikes": 20,
+  "docks": 3,
+  "capacity": 31
+ },
+ {
+  "name": "Paulina St & Flournoy St",
+  "lat": 41.873061087897916,
+  "lon": -87.66913488507271,
+  "bikes": 22,
+  "ebikes": 22,
+  "docks": 0,
+  "capacity": 31
+ },
+ {
+  "name": "Wabash Ave & 16th St",
+  "lat": 41.860384,
+  "lon": -87.625813,
+  "bikes": 21,
+  "ebikes": 7,
+  "docks": 15,
+  "capacity": 39
+ },
+ {
+  "name": "Canal St & Adams St",
+  "lat": 41.879255,
+  "lon": -87.639904,
+  "bikes": 20,
+  "ebikes": 9,
+  "docks": 20,
+  "capacity": 47
+ },
+ {
+  "name": "Clark St & Ida B Wells Dr",
+  "lat": 41.8759326655,
+  "lon": -87.6305845355,
+  "bikes": 19,
+  "ebikes": 9,
+  "docks": 14,
+  "capacity": 35
+ },
+ {
+  "name": "Lincoln Park Conservatory",
+  "lat": 41.92393131136619,
+  "lon": -87.63582453131676,
+  "bikes": 19,
+  "ebikes": 11,
+  "docks": 9,
+  "capacity": 31
+ },
+ {
+  "name": "Michigan Ave & Oak St",
+  "lat": 41.90096039,
+  "lon": -87.62377664,
+  "bikes": 19,
+  "ebikes": 9,
+  "docks": 4,
+  "capacity": 23
+ },
+ {
+  "name": "Navy Pier",
+  "lat": 41.892278,
+  "lon": -87.612043,
+  "bikes": 19,
+  "ebikes": 7,
+  "docks": 49,
+  "capacity": 71
+ },
+ {
+  "name": "Wabash Ave & Washington St",
+  "lat": 41.8832,
+  "lon": -87.62662,
+  "bikes": 19,
+  "ebikes": 12,
+  "docks": 2,
+  "capacity": 30
+ },
+ {
+  "name": "Wood St & Beach Ave",
+  "lat": 41.907655,
+  "lon": -87.672552,
+  "bikes": 19,
+  "ebikes": 10,
+  "docks": 5,
+  "capacity": 27
+ },
+ {
+  "name": "Millennium Park",
+  "lat": 41.8810317,
+  "lon": -87.62408432,
+  "bikes": 18,
+  "ebikes": 12,
+  "docks": 27,
+  "capacity": 47
+ },
+ {
+  "name": "Canal St & Jackson Blvd",
+  "lat": 41.878125,
+  "lon": -87.639968,
+  "bikes": 17,
+  "ebikes": 15,
+  "docks": 11,
+  "capacity": 31
+ },
+ {
+  "name": "Wilton Ave & Belmont Ave",
+  "lat": 41.940231918108594,
+  "lon": -87.65294373035431,
+  "bikes": 17,
+  "ebikes": 15,
+  "docks": 5,
+  "capacity": 27
+ },
+ {
+  "name": "Damen Ave & Wicker Park Ave",
+  "lat": 41.9088152,
+  "lon": -87.6771937,
+  "bikes": 16,
+  "ebikes": 11,
+  "docks": 5,
+  "capacity": 23
+ }
+]
